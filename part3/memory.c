@@ -61,7 +61,7 @@ module_exit(memory_exit);
 
 /* Major number */
 
-int memory_major = 60;
+int memory_major = 160;
 
 /* Buffer to store data */
 
